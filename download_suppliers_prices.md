@@ -2,7 +2,7 @@
 title: Загрузка прайсов поставщиков
 description: 
 published: true
-date: 2021-01-04T09:14:09.277Z
+date: 2021-09-07T15:52:20.542Z
 tags: прайсы, товары, поставщики, цены, остатки
 editor: markdown
 dateCreated: 2020-12-16T05:11:24.769Z
@@ -11,8 +11,6 @@ dateCreated: 2020-12-16T05:11:24.769Z
 # Загрузка прайсов поставщиков
 *Дата создания:*  03.01.2020
 *Версия:* 1.0
-***
-Thank you for your purchase! If you have any questions about this theme, feel free to e-mail me at **email@tutsplus.com** or tweet me **@tutsplus**
 ***
 ## Краткий обзор функционала
 ## Главное окно
